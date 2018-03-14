@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MR.AspNet.Identity.EntityFramework6.Model\MR.AspNet.Identity.EntityFramework6.Model.csproj" />
+    <ProjectReference Include="..\MR.AspNet.Identity.EntityFramework6.Models\MR.AspNet.Identity.EntityFramework6.Models.csproj" />
   </ItemGroup>
 
 </Project>
